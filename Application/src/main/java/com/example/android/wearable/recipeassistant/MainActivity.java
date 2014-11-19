@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.android.recipeassistant;
+package com.example.android.wearable.recipeassistant;
 
 import android.app.ListActivity;
 import android.content.Intent;

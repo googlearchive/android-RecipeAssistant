@@ -13,7 +13,7 @@ apply plugin: 'com.android.application'
 
 dependencies {
 
-    // Add the support lib that is appropriate for SDK 20
+    // Add the support lib that is appropriate for SDK 18
     compile "com.android.support:support-v13:20.+"
 
 

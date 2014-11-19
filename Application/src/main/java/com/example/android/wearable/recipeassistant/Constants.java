@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.android.recipeassistant;
+package com.example.android.wearable.recipeassistant;
 
 public final class Constants {
     private Constants() {
@@ -34,7 +34,7 @@ public final class Constants {
     public static final String RECIPE_FIELD_STEP_IMAGE = "step_image";
 
     static final String ACTION_START_COOKING =
-            "com.example.android.recipeassistant.START_COOKING";
+            "com.example.android.wearable.recipeassistant.START_COOKING";
     public static final String EXTRA_RECIPE = "recipe";
 
     public static final int NOTIFICATION_ID = 0;
